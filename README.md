@@ -4,6 +4,8 @@ This repository contains the backend service for the Software Engineering Practi
 
 Student ID: `832402119`
 
+Student Name: `Jingling Wang`
+
 GitHub username: `AtoposPioneer`
 
 ## Features
